@@ -1,10 +1,7 @@
-# whiskerwood-IndustryRecipes
-A mod for Whiskerwood to modify industry recipes and inject them to grid actors.
+# whiskerwood-productionlimitsloader
+A mod that adds a widget to save and load production limits.
 
 ## Overview
- - Provides the ability to create or override industry recipes.
- - Provides the ability to create or override grid actors.
- - Edit files in `<YourSteamDirectory>\steamapps\workshop\content\2489330\XX` to customize.
- 
-## Known Issues
+ - Adds a widget at the botton of the right ribbon. Left clicking it will save the current production limits to disk. Control clicking it will reload the last save. Primarily useful for quickly applying a default set of production limits to a new colony.
+
 
