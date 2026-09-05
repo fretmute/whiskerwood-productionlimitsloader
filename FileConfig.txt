@@ -1,0 +1,10 @@
+# Copy the default config files to new names and set them here to prevent updates from overwriting your stuff.
+# Updates will, unfortunately, overwrite _this_ file. But at least you won't lose your data.
+# As always the first row is filled with column headers, do not change or delete this
+Localizations
+
+# Your filenames below
+# On the off chance that you want to add your own localizations, comma separate
+# and make the filename the language code, e.g. 'en.txt, de.txt' to add German.
+# It seems filenames can't have spaces, so beware.
+en.txt

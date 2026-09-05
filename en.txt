@@ -1,0 +1,7 @@
+Key | Value
+
+# Settings
+ProductionLimitsLoader.Setting.True | True
+ProductionLimitsLoader.Setting.False | False
+ProductionLimitsLoader.Setting.Enable.Name | ProductionLimitsLoader - Enable
+ProductionLimitsLoader.Setting.Enable.Description | If true, enables the production limits loader widget.

@@ -1,0 +1,2 @@
+OptionId | DisplayName | Description | ValuesArray | DefaultValue
+ProductionLimitsLoader-Enable | ProductionLimitsLoader.Setting.Enable.Name | ProductionLimitsLoader.Setting.Enable.Description | ProductionLimitsLoader.Setting.True, ProductionLimitsLoader.Setting.False | ProductionLimitsLoader.Setting.False
