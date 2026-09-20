@@ -1,0 +1,121 @@
+# Copy the default config files to new names and set them here to prevent updates from overwriting your stuff.
+# Updates will, unfortunately, overwrite _this_ file. But at least you won't lose your data.
+# As always the first row is filled with column headers, do not change or delete this
+BlacklistedRecipe
+
+#### Blacklsited Recipes - These are commented out by default, remove the leading `#` from a line to blacklist that recipe.
+#### Blacklisted recipes are not considered when automatically switching recipes.
+
+## lumbermill
+# recipe.lumbermill
+
+## fishingdock
+# recipe.fishingdock
+
+## brickmaker
+# recipe.brickmaker
+# recipe.stone_cannonball
+
+## fishery
+# recipe.fishery
+# recipe.fishskewers
+
+## stewery
+# recipe.stewery
+# recipe.mushroomstew
+
+## finekitchen
+# recipe.finekitchen
+# recipe.heartymeal
+# recipe.fancymeal
+
+## charcoalFurnace
+# recipe.charcoalfurnace
+
+## toolmaker
+# recipe.scissors
+# recipe.firetongs
+# recipe.nailor
+
+## oresmelter
+# recipe.coppersmelter
+# recipe.bronzesmelter
+# recipe.goldsmelter
+
+## coalProcessor
+# recipe.coalprocessor
+# recipe.salt
+# recipe.potashfertilizer
+# recipe.guanofertilizer
+
+## furnituremaker
+# recipe.vises
+# recipe.furnituremaker
+# recipe.cannonframe
+
+## tailor
+# recipe.tailor
+# recipe.bedding
+
+## bakery
+# recipe.bakery
+# recipe.jampastry
+
+## weaver
+# recipe.simpleclothes
+# recipe.weaver
+
+## oilpress
+# recipe.fishoil
+
+## mill
+# recipe.wheatflour
+
+## blastfurnace
+# recipe.smelter
+# recipe.steelsmelter
+
+## blacksmith
+# recipe.ironpots
+# recipe.precisionscales
+# recipe.steelplates
+# recipe.iron_cannonball
+# recipe.bronze_cannonball
+
+## sailmanufactory
+# recipe.sail
+
+## cannonfoundry
+# recipe.bronzecannon
+
+## cannery
+# recipe.cannedberries
+# recipe.cannedfish
+# recipe.cannedmushroom
+
+## laboratory
+# recipe.salinesolution
+# recipe.soap
+
+## apothecary
+# recipe.medicine
+
+## teaprocessor
+# recipe.tea
+# recipe.finetea
+
+## machinist
+# recipe.machinery
+
+## netter
+# recipe.fishingnet
+
+## spicegrinder
+# recipe.spice
+
+## flaxspinner
+# recipe.rope
+recipe.flax
+
+## cottongin
+# recipe.cotton

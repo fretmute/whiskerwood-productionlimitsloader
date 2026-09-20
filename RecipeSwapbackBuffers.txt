@@ -1,0 +1,14 @@
+# Copy the default config files to new names and set them here to prevent updates from overwriting your stuff.
+# Updates will, unfortunately, overwrite _this_ file. But at least you won't lose your data.
+# As always the first row is filled with column headers, do not change or delete this
+Recipe | SwapbackBuffer
+
+## Swapback Buffers
+## When swapping away from a recipe, the mod checks `currentStock >= productionLimit`.
+## The mod will attempt to prioritize swapping back to the original recipe, doing so when
+## `currentStock <= (productionLimit - swapbackBUffer)`
+## `recipe.global.swapbackbuffer` is applied if a specific recipe does not have a value in this file.
+## See `RecipeBlacklist.txt` for a list of recipes that can be added here.
+## The fallback value is zero if `recipe.global.swapbackbuffer` gets removed.
+
+recipe.global.swapbackbuffer | 25
