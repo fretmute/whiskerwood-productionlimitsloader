@@ -1,7 +1,7 @@
 {
     "Name" : "Production Limits Loader",
-    "Description" : "A mod that adds a widget to save or load production limits.",
-    "Version" : "0.1.0.0-Patch#26",
+    "Description" : "A mod with a few production limit utilities.",
+    "Version" : "0.0.1.0-Patch#28",
     "CreatedBy" : "Fretmute",
     "CreatedByURL" : "https://github.com/fretmute/whiskerwood-productionlimitsLoader"
 }
