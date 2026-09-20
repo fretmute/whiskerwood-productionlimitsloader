@@ -1,0 +1,9 @@
+# Copy the default config files to new names and set them here to prevent updates from overwriting your stuff.
+# Updates will, unfortunately, overwrite _this_ file. But at least you won't lose your data.
+# As always the first row is filled with column headers, do not change or delete this
+WhitelistedRecipe
+
+# Recipes
+recipe.coppersmelter
+recipe.bronzesmelter
+recipe.goldsmelter
