@@ -1,10 +1,17 @@
 # Copy the default config files to new names and set them here to prevent updates from overwriting your stuff.
 # Updates will, unfortunately, overwrite _this_ file. But at least you won't lose your data.
 # As always the first row is filled with column headers, do not change or delete this
-BlacklistedRecipe
+BlocklistedRecipe
 
-#### Blacklsited Recipes - These are commented out by default, remove the leading `#` from a line to blacklist that recipe.
-#### Blacklisted recipes are not considered when automatically switching recipes.
+#### Blocklisted Recipes - Most of these are commented out by default, remove the leading `#` from a line to blocklist that recipe.
+#### Blocklisted recipes are not considered when automatically switching recipes.
+
+## From Expanded Industries - Note these default to blocklisted
+expandedindustries.recipe.charcoalfurnacecharcoal
+expandedindustries.recipe.charcoaltofuel
+expandedindustries.recipe.sifterseasalt
+expandedindustries.recipe.seatotablesalt
+expandedindustries.recipe.hardtack
 
 ## lumbermill
 # recipe.lumbermill
