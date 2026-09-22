@@ -8,6 +8,7 @@ A mod that adds a widget to save and load production limits.
  	- Primarily useful for quickly applying a default set of production limits to a new colony.
  - Automatic Recipe Swaps
  	- Industries that are set to produce something that is over the production limit will attempt to swap to a new recipe every 10 seconds.
+ 	- Recipes that do not have sufficient resources for production are not considered.
  	- Add recipes to `RecipeBlocklist.txt` to prevent their selection. Blocklisted recipes are never considered for swaps.
  	- `RecipeSwapbackbuffers.txt`
  		- This can be configured to set global or per recipe buffers for recipe swapback thresholds.
