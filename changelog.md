@@ -1,5 +1,8 @@
 ## Changelog
 
+### 0.0.2.2
+- Removed some orphaned code.
+
 ### 0.0.2.1
 - Various documentation updates.
 - Potential recipes for swapping are now checked to ensure that resources to produce them exist. If not, they are not considered for swaps.

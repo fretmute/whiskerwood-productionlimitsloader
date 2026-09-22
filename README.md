@@ -1,5 +1,5 @@
 # whiskerwood-productionlimitsloader
-A mod that adds a widget to save and load production limits.
+A mod that adds various quality of life features around production limits.
 
 ## Overview
  - Production Limits Loading
