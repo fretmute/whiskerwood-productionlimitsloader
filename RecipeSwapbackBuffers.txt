@@ -12,4 +12,3 @@ Recipe | SwapbackBuffer
 ## The fallback value is zero if `recipe.global.swapbackbuffer` gets removed.
 
 recipe.global.swapbackbuffer | 25
-recipe.coalprocessor | 50

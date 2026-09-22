@@ -122,7 +122,7 @@ expandedindustries.recipe.hardtack
 
 ## flaxspinner
 # recipe.rope
-recipe.flax
+# recipe.flax
 
 ## cottongin
 # recipe.cotton
