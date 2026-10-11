@@ -1,5 +1,11 @@
 ## Changelog
 
+### 0.0.3.1
+- Fixed recipes that do not require tech unlocks not being considered viable for swaps.
+
+### 0.0.3.0
+- Updated for Unreal Engine 5.8.
+
 ### 0.0.2.2
 - Removed some orphaned code.
 

@@ -1,7 +1,7 @@
 {
     "Name" : "Production Limits Loader",
     "Description" : "A mod with a few production limit utilities.",
-    "Version" : "0.0.3.0-Patch#29",
+    "Version" : "0.0.3.1-Patch#29",
     "CreatedBy" : "Fretmute",
     "CreatedByURL" : "https://github.com/fretmute/whiskerwood-productionlimitsLoader",
     "EngineVersion": "5.8"
